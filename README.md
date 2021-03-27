@@ -1,5 +1,5 @@
 # Djoker 1337 
-### "Your friendly meme joke dealer"
+### "Your friendly joke dealer"
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/woosal1337/Djoker/main/src/image.png" />
