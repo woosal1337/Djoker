@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 const fetch = require('node-fetch');
 
-client.login("");
+client.login("ODI1MTQ3OTc5Njg1OTUzNTY3.YF5s8A.8TFvuA-DhNZG68cwvOZHv332CKI");
 
 client.on("ready", () => {
     console.log("Let's Joke it up!");
